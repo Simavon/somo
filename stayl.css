@@ -1,0 +1,56 @@
+body{
+    
+}
+.parent{
+height: 300px;
+width: 500px;
+border: 1px solid ;
+background-color: aquamarine;
+margin: 200px auto;
+position: relative;
+}
+.text {
+margin-top: 10px;
+margin-left:15px;
+text-align: center;
+cursor: pointer;
+}
+.block{
+margin-left:50px;
+margin-top: 20px;
+background-color: rgb(255, 255, 255);
+height: 100px;
+width: 100px;
+}
+.btn{
+height: 20px;
+width: 60px;
+position: absolute;
+bottom: 10px;
+right: 70px;
+}
+.mobil{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(109, 184, 250, 0.3);
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+}
+.mobil a {
+    color: black;
+    text-decoration: none;
+}
+
+.mobil img {
+    margin-left: 180px;
+}
+.link {
+    text-decoration: none;
+    color: black;
+    margin-top: 50px;
+    position: absolute;
+    right: 50px;
+    top: 0;
+}
